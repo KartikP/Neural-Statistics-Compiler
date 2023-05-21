@@ -1,4 +1,4 @@
-#Neural Statistics Compiler for Automated Analysis of Multielectrode Array (MEA) Data
+Neural Statistics Compiler for Automated Analysis of Multielectrode Array (MEA) Data
 ---
 *Code and application soon to be available*
 
